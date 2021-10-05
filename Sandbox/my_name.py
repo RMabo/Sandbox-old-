@@ -1,3 +1,0 @@
-"""
-Roderick Mabo
-"""
